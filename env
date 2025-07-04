@@ -1,0 +1,6 @@
+# .env
+
+BOT_TOKEN=7833301238:AAGQUjgOGgRb8ueInaIAGRjfLdAB5KdUtYY
+API_URL_TEMPLATE=https://android-likeapi.vercel.app/like?uid={uid}&server_name=ag
+WEBHOOK_URL=https://your-webhook-url.com/
+PORT=5000
