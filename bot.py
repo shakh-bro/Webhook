@@ -17,7 +17,7 @@ from telegram.ext import (
 BOT_TOKEN = "7833301238:AAGQUjgOGgRb8ueInaIAGRjfLdAB5KdUtYY"
 OWNER = "<@cosmos_1oo7>"  # example: "@NR_CODEX"
 API_URL = "https://android-likeapi.vercel.app/like?uid={uid}&server_name=ag"
-WEBHOOK_URL = "<your_webhook_url_here>"
+WEBHOOK_URL = "https://webhook-0y92.onrender.com/"
 PORT = int(os.environ.get("PORT", 5000))
 ADMIN_IDS = [7549258335]  # example: [123456789]
 ALLOWED_GROUPS = {-1002564578124}  # example: {-1001234567890}
